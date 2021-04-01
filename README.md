@@ -17,5 +17,7 @@ There are several goals:
 3. The framework should provide logging and other features that would make the development and testing of these job-processors easier.
 
 [^fantasy]: I have a dream.
+
 [^isthatright]: Is `framework` the right term for what I describe?
+
 [^usefultome]: I say `standard` but I just intend to make it useful for my own needs.
