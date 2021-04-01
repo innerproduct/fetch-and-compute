@@ -16,6 +16,7 @@ There are several goals:
 2. Furthermore, the framework should provide a layer of abstraction for some common methods of fetching data from traditional or cloud-based databases or filestores. Similarly for some standard[^usefultome] compute or data-processing tasks.
 3. The framework should provide logging and other features that would make the development and testing of these job-processors easier.
 
+## Footnotes (don't woek)
 [^fantasy]: I have a dream.
 
 [^isthatright]: Is `framework` the right term for what I describe?
